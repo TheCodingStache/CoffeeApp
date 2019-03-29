@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="radioGroup"> </string>
+    <string name="textCoffee">Συμπλήρωσε την παραγγελία σου</string>
+    <string name="coldCoffee">Κρύος Καφές</string>
+    <string name="hotCoffee">Ζεστός Καφές</string>
+    <string name="with">Με</string>
+    <string name="hot">Ζεστός</string>
+    <string name="cold">Κρύος</string>
+    <string name="without">Χωρίς</string>
+    <string name="sugar">Ζάχαρη</string>
+    <string name="type">Τύπος Καφέ</string>
+    <string name="milk">Γάλα</string>
+    <string name="orderButton">Ολοκλήρωση Παραγγελίας</string>
+    <string name="address">Συμπλήρωσε τη διεύθυνση σου</string>
+    <string name="confirmedAddress"> </string>
+    <string name="coffeeType"> </string>
+    <string name="coffeeSugar"> </string>
+    <string name="coffeeMilk"> </string>
+</resources>
